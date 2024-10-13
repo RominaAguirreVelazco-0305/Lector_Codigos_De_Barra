@@ -1,0 +1,124 @@
+/* Estilo General */
+body {
+  font-family: 'Comic Sans MS', cursive, sans-serif;
+  /* Nuevo gradiente con colores más vivos y transiciones suaves */
+  background: linear-gradient(135deg, #eae8ec, #d4d9e0);
+  margin: 0;
+  padding: 0;
+  color: #2c3e50;
+}
+
+.navbar {
+  background: linear-gradient(90deg, #4568dc, #b06ab3);
+  padding: 1rem;
+  font-size: 1.5rem;
+  color: white;
+  transition: background-color 0.3s ease-in-out;
+}
+
+.navbar:hover {
+  background: linear-gradient(90deg, #b06ab3, #4568dc); /* Invierte el gradiente para un efecto visual */
+}
+
+
+.animated-card {
+  transition: transform 0.3s, box-shadow 0.3s;
+}
+
+.animated-card:hover {
+  transform: scale(1.05);
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.15);
+}
+
+.bg-gradient-primary {
+  background: linear-gradient(135deg, #42a5f5, #64b5f6); /* Tono cian a rosa */
+}
+
+.bg-gradient-success {
+  background: linear-gradient(135deg, #4caf50, #8bc34a); /* Tono verde claro a verde oscuro */
+}
+
+.container {
+  max-width: 1200px;
+  padding: 2rem;
+  border-radius: 15px;
+  background-color: rgba(255, 255, 255, 0.85); /* Semi-transparente para un look fresco */
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.1);
+}
+
+button {
+  background-color: #ff7043;
+  border: none;
+  color: white;
+  padding: 10px 15px;
+  border-radius: 8px;
+  transition: background-color 0.3s;
+}
+
+button:hover {
+  background-color: #d84315;
+  cursor: pointer;
+}
+
+input[type="text"] {
+  width: 100%;
+  padding: 12px;
+  border: 2px solid #2196f3;
+  border-radius: 8px;
+}
+
+#lector {
+  width: 100%;
+  height: 300px;
+  background-color: #000;
+  border-radius: 15px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 10px;
+}
+
+.equal-card {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+
+.card-body {
+  transition: opacity 0.5s ease-in-out;
+}
+
+.card-body.hidden {
+  opacity: 0;
+}
+
+@media (max-width: 768px) {
+  .container {
+    padding: 1rem;
+  }
+
+  #lector {
+    height: 200px;
+  }
+}
+
+#lector video {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  border-radius: 15px;
+}
+
+#lector.scan-success {
+  animation: shake 0.5s;
+  border-color: #4CAF50; /* Verde para éxito */
+}
+
+@keyframes shake {
+  0% { transform: translateX(-10px); }
+  25% { transform: translateX(10px); }
+  50% { transform: translateX(-10px); }
+  75% { transform: translateX(10px); }
+  100% { transform: translateX(0); }
+}
