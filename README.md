@@ -61,7 +61,6 @@ Sigue estos pasos para configurar el proyecto localmente:
 - Copiar código
       npm start
 
-  
 ## 📲 Uso
 Ingresa texto en el campo del Generador de Códigos y presiona "Generar Código" para ver el código de barras.
 Usa el Lector de Códigos para escanear cualquier código de barras con tu cámara.
