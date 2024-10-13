@@ -14,15 +14,14 @@ https://rominaaguirrevelazco-0305.github.io/Lector_Codigos_De_Barra/
 
 
 
-
-
 ## 📖 **Tabla de Contenidos**
 1. [Características](#Características-🔍)
 2. [Tecnologías Utilizadas](#Tecnologías-⚙️)
 3. [Instalación](#Instalación-🛠️)
 4. [Uso](#Uso-📲)
-5. [Como visualizar mi repositorio](#Cómo Visualizar mi repositorio-🌐)
+5. [Cómo visualizar mi repositorio](#cómo-visualizar-mi-repositorio-🌐)
 6. [Autor](#Autor-✍️)
+
 
 
 ---
