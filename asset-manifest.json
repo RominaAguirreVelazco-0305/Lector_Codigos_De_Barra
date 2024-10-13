@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Lector_Codigos_De_Barra/static/css/main.fe5bb6f6.css",
+    "main.js": "/Lector_Codigos_De_Barra/static/js/main.ff915bb4.js",
+    "static/js/453.9d899184.chunk.js": "/Lector_Codigos_De_Barra/static/js/453.9d899184.chunk.js",
+    "index.html": "/Lector_Codigos_De_Barra/index.html",
+    "main.fe5bb6f6.css.map": "/Lector_Codigos_De_Barra/static/css/main.fe5bb6f6.css.map",
+    "main.ff915bb4.js.map": "/Lector_Codigos_De_Barra/static/js/main.ff915bb4.js.map",
+    "453.9d899184.chunk.js.map": "/Lector_Codigos_De_Barra/static/js/453.9d899184.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fe5bb6f6.css",
+    "static/js/main.ff915bb4.js"
+  ]
+}
