@@ -21,9 +21,9 @@ https://rominaaguirrevelazco-0305.github.io/Lector_Codigos_De_Barra/
 2. [Tecnologías Utilizadas](#Tecnologías-⚙️)
 3. [Instalación](#Instalación-🛠️)
 4. [Uso](#Uso-📲)
-5. [Contribuciones](#Contribuciones-🤝)
+5. [Como visualizar mi repositorio](#Cómo Visualizar mi repositorio-🌐)
 6. [Autor](#Autor-✍️)
-7. [Licencia](#Licencia-📝)
+
 
 ---
 
@@ -70,7 +70,9 @@ Usa el Lector de Códigos para escanear cualquier código de barras con tu cáma
 ## 🌐 Cómo Visualizar mi repositorio
 Puedes visualizar mi PÁGINA en línea visitando el siguiente enlacehttps://github.com/RominaAguirreVelazco-0305/Lector_Codigos_De_Barra.git
 
+## ✍️ Autor
+- Romina Jacqueline Aguirre Velazco
+- 📧 romina.aguirre8841@alumnos.udg.mx
+- Desarrollado con ❤️ por Romina Aguirre. 
+
 ## 🎉 ¡Explora y diviértete probando diferentes códigos!
-
-## Desarrollado con ❤️ por Romina Aguirre. 
-
