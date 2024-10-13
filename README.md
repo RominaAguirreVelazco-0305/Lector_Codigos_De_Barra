@@ -8,6 +8,12 @@ https://rominaaguirrevelazco-0305.github.io/Lector_Codigos_De_Barra/
 
 ## 🚀 Capturas del Proyecto
 
+![image](https://github.com/user-attachments/assets/4d5188a1-51c0-499d-8f2b-9a1ddf91d56c)
+
+![image](https://github.com/user-attachments/assets/d69e5ee5-f5ec-40fd-9549-a9ae14446b89)
+
+
+
 ## 📖 **Tabla de Contenidos**
 1. [Características](#Características-🔍)
 2. [Tecnologías Utilizadas](#Tecnologías-⚙️)
