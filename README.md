@@ -3,6 +3,7 @@
 ¡Bienvenido a **Lector y Generador de Códigos de Barras**! 📋 Este proyecto fue diseñado para crear y leer códigos de barras de manera sencilla y eficiente. Perfecto para integrarlo en sistemas comerciales y educativos. 🚀
 
 ## 🌐 Cómo Visualizar mi página
+https://rominaaguirrevelazco-0305.github.io/Lector_Codigos_De_Barra/
 
 
 ## 🚀 Capturas del Proyecto
