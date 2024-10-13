@@ -66,7 +66,7 @@ Ingresa texto en el campo del Generador de Códigos y presiona "Generar Código"
 Usa el Lector de Códigos para escanear cualquier código de barras con tu cámara.
 
 ## 🌐 Cómo Visualizar mi repositorio
-Puedes visualizar mi PÁGINA en línea visitando el siguiente enlacehttps://github.com/RominaAguirreVelazco-0305/Lector_Codigos_De_Barra.git
+Puedes visualizar mi PÁGINA en línea visitando el siguiente enlace https://github.com/RominaAguirreVelazco-0305/Lector_Codigos_De_Barra.git
 
 ## ✍️ Autor
 - Romina Jacqueline Aguirre Velazco
