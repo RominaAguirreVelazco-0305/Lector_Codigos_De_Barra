@@ -8,9 +8,11 @@ https://rominaaguirrevelazco-0305.github.io/Lector_Codigos_De_Barra/
 
 ## 🚀 Capturas del Proyecto
 
-![image](https://github.com/user-attachments/assets/4d5188a1-51c0-499d-8f2b-9a1ddf91d56c)
+![image](https://github.com/user-attachments/assets/500871e1-a111-49c3-a60c-b101fb793522)
 
-![image](https://github.com/user-attachments/assets/d69e5ee5-f5ec-40fd-9549-a9ae14446b89)
+![image](https://github.com/user-attachments/assets/f26ece28-f899-45b1-9f5b-808142615e7e)
+
+
 
 
 
